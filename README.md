@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-bijay-adhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayadhikari/)](https://www.linkedin.com/in/bijayadhikari/)
+[![Linkedin: BijayAdhikari](https://img.shields.io/badge/-bijay-adhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayadhikari/)](https://www.linkedin.com/in/bijayadhikari/)
 ![GitHub followers](https://img.shields.io/github/followers/Bijay555?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/Bijay555) 
 [![Years Badge](https://badges.pufler.dev/years/Bijay555)](https://badges.pufler.dev/years/Bijay555)
 [![Repos Badge](https://badges.pufler.dev/repos/Bijay555)](https://badges.pufler.dev/repos/Bijay555)
