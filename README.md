@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Open Source Projects
+- 🌱 I’m currently learning ML and Deep learning
+
+
 [![Linkedin: BijayAdhikari](https://img.shields.io/badge/-bijayadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayadhikari/)](https://www.linkedin.com/in/bijayadhikari/)
 ![GitHub followers](https://img.shields.io/github/followers/Bijay555?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/Bijay555) 
 [![Years Badge](https://badges.pufler.dev/years/Bijay555)](https://badges.pufler.dev/years/Bijay555)
