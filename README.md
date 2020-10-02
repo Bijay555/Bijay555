@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Open Source Projects
+- 🌱 I’m currently learning ML and Deep learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Updated Badge](https://badges.pufler.dev/updated/Bijay555/Bijay555)](https://badges.pufler.dev/updated/Bijay555)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Bijay555)](https://badges.pufler.dev/commits/monthly/Bijay555)
 
-I'm currently looking for **ai**/**ml**/**dl** (**Computer Vision**) internship/ part time oppurtunities !!!    
+I'm currently looking for **AI**/**ML**/**DL** (**Computer Vision**) internship/ part time oppurtunities !!!    
 Note: Willing to work on open-source projects of Computer Vision/ ML   
 
 ![Bijay555 github stats](https://github-readme-stats.vercel.app/api?username=Bijay555&show_icons=true&theme=radical)    
