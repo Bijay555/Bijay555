@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Open Source Projects
-- 🌱 I’m currently learning ML and Deep learning
 
 
 [![Linkedin: BijayAdhikari](https://img.shields.io/badge/-bijayadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayadhikari/)](https://www.linkedin.com/in/bijayadhikari/)
@@ -25,6 +23,14 @@ Here are some ideas to get you started:
 [![Repos Badge](https://badges.pufler.dev/repos/Bijay555)](https://badges.pufler.dev/repos/Bijay555)
 [![Updated Badge](https://badges.pufler.dev/updated/Bijay555/Bijay555)](https://badges.pufler.dev/updated/Bijay555)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Bijay555)](https://badges.pufler.dev/commits/monthly/Bijay555)
+
+
+
+- 🔭 I’m currently working on Open Source Projects
+- 🌱 I’m currently learning ML and Deep learning
+- 👯 I’m looking to collaborate on anyone or any team dedicated enough to contribute
+
+
 
 I'm currently looking for **AI**/**ML**/**DL** (**Computer Vision**) internship/ part time oppurtunities !!!    
 Note: Willing to work on open-source projects of Computer Vision/ ML   
