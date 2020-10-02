@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm currently looking for **ai**/**ml**/**dl** (**Computer Vision**) internship/ part time oppurtunities !!!    
 Note: Willing to work on open-source projects of Computer Vision/ ML   
 
-![Bijay555 github stats](https://github-readme-stats.vercel.app/api?username=Bijay555&show_icons=true)    
+![Bijay555 github stats](https://github-readme-stats.vercel.app/api?username=Bijay555&show_icons=true&theme=radical)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay555&layout=compact)](https://github.com/Bijay555/github-readme-stats)
 
 <!---[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
