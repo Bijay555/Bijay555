@@ -36,7 +36,7 @@ I'm currently looking for **AI**/**ML**/**DL** (**Computer Vision**) internship/
 Note: Willing to work on open-source projects of Computer Vision/ ML   
 
 ![Bijay555 github stats](https://github-readme-stats.vercel.app/api?username=Bijay555&show_icons=true&theme=radical)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay555&layout=compact&hide=html&theme=radical)](https://github.com/Bijay555/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay555&layout=compact&theme=radical)](https://github.com/Bijay555/github-readme-stats)
 
 <!---[![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdicherlaVenkataSai)](https://github.com/AdicherlaVenkataSai/github-readme-stats)
