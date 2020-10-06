@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Open Source Projects
 - 🌱 I’m currently learning ML and Deep learning
-- 👯 I’m looking to collaborate on anyone or any team dedicated enough to contribute
+- 👯 I’m looking to collaborate with anyone or any team dedicated enough to contribute
 
 
 
