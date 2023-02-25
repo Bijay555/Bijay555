@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 
 
-[![Linkedin: BijayAdhikari](https://img.shields.io/badge/-bijayadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayadhikari/)](https://www.linkedin.com/in/bijayadhikari/)]
+![Linkedin: BijayAdhikari](https://img.shields.io/badge/-bijayadhikari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bijayadhikari/)](https://www.linkedin.com/in/bijayadhikari/)
 ![GitHub followers](https://img.shields.io/github/followers/Bijay555?label=Follow&style=social)
-[![Years Badge](https://badges.pufler.dev/years/Bijay555)](https://badges.pufler.dev/years/Bijay555)]
-[![Profile views](https://gpvc.arturio.dev/Bijay555)]
-[![Repos Badge](https://badges.pufler.dev/repos/Bijay555)](https://badges.pufler.dev/repos/Bijay555)]
-[![Updated Badge](https://badges.pufler.dev/updated/Bijay555/Bijay555)](https://badges.pufler.dev/updated/Bijay555)]
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Bijay555)](https://badges.pufler.dev/commits/monthly/Bijay555)]
+![Years Badge](https://badges.pufler.dev/years/Bijay555)](https://badges.pufler.dev/years/Bijay555)
+![Profile views](https://gpvc.arturio.dev/Bijay555)
+![Repos Badge](https://badges.pufler.dev/repos/Bijay555)](https://badges.pufler.dev/repos/Bijay555)
+![Updated Badge](https://badges.pufler.dev/updated/Bijay555/Bijay555)](https://badges.pufler.dev/updated/Bijay555)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Bijay555)](https://badges.pufler.dev/commits/monthly/Bijay555)
 
 
 
