@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Open Source Projects
+
 - 🌱 I’m currently learning ML and Deep learning
-- 👯 I’m looking to collaborate with anyone or any team dedicated enough to contribute
+- 👯 I’m looking to collaborate with anyone contributing on Machine learning projects. 
 
 
     
-Note: Willing to work on open-source projects of Computer Vision/ ML   
+Note: Willing to work on open-source projects of Computer Vision/ ML.
 
 ![Bijay555 github stats](https://github-readme-stats.vercel.app/api?username=Bijay555&show_icons=true&theme=radical)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay555&layout=compact&theme=radical)](https://github.com/Bijay555/github-readme-stats)
